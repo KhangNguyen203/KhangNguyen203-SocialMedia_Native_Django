@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159158421373",
+    "project_id": "chatforsocialmedia",
+    "storage_bucket": "chatforsocialmedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159158421373:android:94dcef1f4f5a2475e2ee14",
+        "android_client_info": {
+          "package_name": "com.socialnetworknativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlsj-J5y22Em2H3V-q9Fhl5TUoGFleLGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

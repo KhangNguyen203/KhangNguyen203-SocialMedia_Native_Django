@@ -1,0 +1,17 @@
+{% extends 'admin/base.html' %}
+
+{% block content %}
+    <div id="content-main">
+        <h1> </h1>
+        <p>Xin chào, {{ user.username }}!</p>
+
+        <div class="module">
+            <h2>Thống kê</h2>
+            <ul class="object-tools">
+                <li>
+                    <a href="{% url 'admin_stats_revenue' %}" class="historylink">Xem lượt tạo mới</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+{% endblock %}
